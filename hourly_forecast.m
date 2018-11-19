@@ -1,4 +1,4 @@
-function [y2]= e203083_guzel_EE474_P1(filename)
+function [y2]= hourly_forecast(filename)
 
 %filename should be like: 'LoadData.xlsx'
 %The function takes a xls file such as
